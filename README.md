@@ -44,3 +44,7 @@ Dieses Projekt ist als Lern- und Bewerbungsprojekt entstanden und zeigt:
 - logisches Denken
 - Kreativität
 - Motivation für eine Ausbildung im Bereich Informatik
+
+## Projektbeschreibung
+Eine ausführliche Projektbeschreibung (PDF) findest du hier:  
+📄 [Projektbeschreibung_Key_to_Programming.pdf](docs/Projektbeschreibung_Key_to_Programming.pdf)
