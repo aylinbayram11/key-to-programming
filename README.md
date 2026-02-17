@@ -47,4 +47,4 @@ Dieses Projekt ist als Lern- und Bewerbungsprojekt entstanden und zeigt:
 
 ## Projektbeschreibung
 Eine ausführliche Projektbeschreibung (PDF) findest du hier:  
-📄 [Projektbeschreibung_Key_to_Programming.pdf](docs/Projektbeschreibung_Key_to_Programming.pdf)
+📄 [Projektbeschreibung_Key_to_Programming.pdf](Projektbeschreibung_Key_to_Programming.pdf)
